@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+        <dict>
+          <key>cell</key>                   <string>PSSwitchCell</string>
+          <key>PostNotification</key>       <string>ch.mdaus.artsy.settingschanged</string>
+          <key>default</key>                <true/>
+          <key>defaults</key>               <string>ch.mdaus.artsy</string>
+          <key>key</key>                    <string>enabled</string>
+          <key>label</key>                  <string>Enable</string>
+          <key>icon</key>                   <string>enabled.png</string>
+        </dict>
+
+        <dict>
+          <key>cell</key>                   <string>PSGroupCell</string>
+        </dict>
+
+        <dict>
+          <key>cell</key>                   <string>PSLinkCell</string>
+          <key>label</key>                  <string>Lockscreen</string>
+          <key>detail</key>                 <string>mdartsyLockscreenController</string>
+        </dict>
+
+        <dict>
+          <key>cell</key>                   <string>PSLinkCell</string>
+          <key>label</key>                  <string>Control Center</string>
+          <key>detail</key>                 <string>mdartsyControlCenterController</string>
+        </dict>
+
+				<dict>
+					<key>cell</key>                   <string>PSLinkCell</string>
+					<key>label</key>                  <string>Music App</string>
+					<key>detail</key>                 <string>mdartsyMusicController</string>
+				</dict>
+
+				<dict>
+					<key>cell</key>                   <string>PSLinkCell</string>
+					<key>label</key>                  <string>Spotify</string>
+					<key>detail</key>                 <string>mdartsySpotifyController</string>
+				</dict>
+
+
+        <dict>
+		  <key>cell</key>                   <string>PSGroupCell</string>
+		  <key>label</key>                  <string>Some changes may require a respring</string>
+		</dict>
+        <dict>
+          <key>cell</key>                    <string>PSButtonCell</string>
+          <key>label</key>                   <string>Respring</string>
+          <key>action</key>                  <string>respring</string>
+          <key>icon</key>                    <string>respring.png</string>
+        </dict>
+
+
+        <dict>
+          <key>cell</key>                    <string>PSGroupCell</string>
+        </dict>
+
+        <dict>
+          <key>action</key>                   <string>goToTwitter</string>
+          <key>cell</key>                     <string>PSButtonCell</string>
+          <key>icon</key>                     <string>twitter.png</string>
+          <key>label</key>     	              <string>@M_Dausch</string>
+        </dict>
+
+				<dict>
+					<key>action</key>                   <string>emailMe</string>
+					<key>cell</key>                     <string>PSButtonCell</string>
+					<key>icon</key>                     <string>mail.png</string>
+					<key>label</key>     	              <string>Email Me!</string>
+				</dict>
+
+				<dict>
+          <key>cell</key>                    <string>PSGroupCell</string>
+					<key>footerText</key>              <string>© 2018 Maxwell Dausch</string>
+				</dict>
+
+	</array>
+	<key>title</key>
+	<string>Artsy</string>
+</dict>
+</plist>

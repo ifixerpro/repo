@@ -3,13 +3,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer:  iFixerpro  <info@ifixerpro.com>
 Filename: ./debs/com.ifixerpro.icons_1.0_iphoneos-arm.deb
-Size: 2818
-MD5sum: 12d12d7520f3178310402d275865b1c5
-SHA1: 178b213b358e899c5c5f1af3fa92811e0dd98576
-SHA256: 44f1a4eee7f808de24c008f10e51baf88ffa552d5cfbdcc898ae6d839f38b2b5
+Size: 2810
+MD5sum: 6ad1137eaa96f3a890d101ecd9126bba
+SHA1: db710a6ac340cad161a5df055d851692f4d3b27b
+SHA256: bdc1bf9c7bbec50cb1b4e7c4e3234630bc65f4045418cd7900f124513cce2780
 Section: Tweaks
 Description: Adds Icon Images
-Author:  Jake Brown 
+Author:  iFixerpro 
 Depiction: https://github.com/ifixerpro/ifixerpro.github.io
 Name: icons
 
@@ -17,11 +17,13 @@ Package: com.ifixerpro.JakeBrown
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer:  iFixerpro  <info@ifixerpro.com>
-Filename: ./debs/com.ifixerpro.JakeBrown_2.0_iphoneos-arm
-Size: 570
+Filename: ./debs/com.ifixerpro.JakeBrown_2.0_iphoneos-arm.deb
+Size: 57000
 MD5sum: 9f0a52f876f5d70626c1b2f9b0449af6
+SHA1: 2b7016510634ce0a1ce93b33e32e3d110ba886f1
+SHA256: 525ef3d3867f66baf1d77ebfe746d236d47aad078932ba8eda9d99a519315cf1
 Section: Tweaks
 Description: Artsy
-Author:  Jake Brown 
+Author:  iFixerpro 
 Depiction: https://github.com/ifixerpro/ifixerpro.github.io
 Name: Jake Brown
