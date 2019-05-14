@@ -19,6 +19,7 @@ Architecture: iphoneos-arm
 Maintainer:  iFixerpro  <info@ifixerpro.com>
 Filename: ./debs/cydia.kiiimo.org.artsy_0.0.4-8+debug.deb
 Size: 570
+MD5sum: 9f0a52f876f5d70626c1b2f9b0449af6
 Section: Tweaks
 Description: Artsy
 Author:  Jake Brown 
