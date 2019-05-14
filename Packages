@@ -1,0 +1,15 @@
+Package: com.ifixerpro.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer:  reponame  <reponame@example.com>
+Filename: ./debs/com.ifixerpro.icons_1.0_iphoneos-arm.deb
+Size: 2818
+MD5sum: 12d12d7520f3178310402d275865b1c5
+SHA1: 178b213b358e899c5c5f1af3fa92811e0dd98576
+SHA256: 44f1a4eee7f808de24c008f10e51baf88ffa552d5cfbdcc898ae6d839f38b2b5
+Section: Tweaks
+Description: Adds Icon Images
+Author:  iFixerpro 
+Depiction: https://github.com/ifixerpro/ifixerpro.github.io
+Name: icons
+
