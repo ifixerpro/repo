@@ -1,0 +1,7 @@
+Origin:  iFixerpro  # the name Cydia shows in the Sources list
+Label:  iFixerpro  Repo # This is shown under package names “From <Label>”
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm Components: main
+Description: The Best Cydia Repository
