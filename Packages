@@ -12,3 +12,15 @@ Description: Adds Icon Images
 Author:  Jake Brown 
 Depiction: https://github.com/ifixerpro/ifixerpro.github.io
 Name: icons
+
+Package: com.ifixerpro.JakeBrown
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer:  iFixerpro  <info@ifixerpro.com>
+Filename: ./debs/cydia.kiiimo.org.artsy_0.0.4-8+debug.deb
+Size: 570
+Section: Tweaks
+Description: Artsy
+Author:  Jake Brown 
+Depiction: https://github.com/ifixerpro/ifixerpro.github.io
+Name: Jake Brown

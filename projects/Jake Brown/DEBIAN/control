@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
 Author:  iFixerpro 
 Depiction: https://github.com/ifixerpro/ifixerpro.github.io
-Description: Adds Icon Images
+Description: The Coolest Cydia Package
 Maintainer:  iFixerpro  <info@ifixerpro.com>
 Name: icons
-Package: com.ifixerpro.icons
+Package: com.ifixerpro.JakeBrown
 Section: Tweaks
-Version: 1.0
+Version: 2.0
